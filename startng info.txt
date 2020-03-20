@@ -1,0 +1,6 @@
+
+Name:			Aliyu Abubakar Sadiq	
+Email:			aliyusadiqraz@gmail.com
+Slack username:		AliyuSadiq	
+Track:			frontend,  backend, design
+Classes:		html-css-javaScript, csharp, design(ui/ux)
